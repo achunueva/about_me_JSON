@@ -1,0 +1,14 @@
+{
+    "firstName": "Asem",
+    "lastName": "Chunueva",
+    "age": 17,
+    "language": "Russian, English, Kyrgyz",
+    "date of birth": "11 January",
+    "adress": {
+      "street": "Amanbaeva 22",
+      "city": "Karakol",
+      "country": "Kyrgyzstan"
+    },
+    "phoneNumbers": ["999 773 062 755", "999 555 666 555"],
+    "hobbies": ["reading","learning languages"]
+  }
